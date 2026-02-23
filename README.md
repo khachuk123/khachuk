@@ -1,3 +1,3 @@
 # gym plan
-workouts plan
+workouts.
 workout plan for khachuk
