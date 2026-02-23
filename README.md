@@ -1,1 +1,2 @@
-# khachuk gym
+# gym plan
+workouts plan
